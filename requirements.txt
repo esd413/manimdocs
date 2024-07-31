@@ -1,0 +1,4 @@
+Sphinx==5.3.0
+sphinx-copybutton
+furo==2020.10.5b9
+Jinja2
