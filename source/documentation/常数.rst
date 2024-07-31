@@ -1,4 +1,4 @@
-constants
+常数
 =========
 
 The ``constants.py`` in the ``manimlib`` folder defines the constants 

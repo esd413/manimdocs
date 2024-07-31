@@ -1,4 +1,4 @@
-Manim's structure
+Manim结构
 =================
 
 
