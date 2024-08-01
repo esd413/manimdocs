@@ -9,7 +9,7 @@ Manim文档:从入门到劝退
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting Started
+   :caption: 快速入门
 
    getting_started/安装
    getting_started/快速开始
@@ -21,15 +21,15 @@ Manim文档:从入门到劝退
 
 .. toctree::
    :maxdepth: 2
-   :caption: Documentation
+   :caption: 文档
 
    documentation/常数
    documentation/custom_config
 
 .. toctree::
    :maxdepth: 2
-   :caption: Development
+   :caption: 发展
 
-   development/changelog
-   development/contributing
-   development/about
+   development/变更
+   development/贡献
+   development/关于
