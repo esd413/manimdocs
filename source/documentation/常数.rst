@@ -1,9 +1,7 @@
 常数
 =========
 
-The ``constants.py`` in the ``manimlib`` folder defines the constants 
-needed when running manim. Some constants are not explained here because 
-they are only used inside manim.
+manimlib文件夹中的constants.py定义了一些在manim运行时所需要的常量，这里没有解释一些常数是因为它们只在manim内部使用。
 
 Frame and pixel shape
 ---------------------
