@@ -1,13 +1,13 @@
-About
+关于
 =====
 
-About Manim
+关于Manim
 -----------
 
 Manim is an animation engine for explanatory math videos. 
 You can use it to make math videos (or other fields) like 3Blue1Brown.
 
-There are mainly two versions here:
+这里有两个版本:
 
 - `3b1b/manim <https://github.com/3b1b/manim>`_ : Maintained by Grant Sanderson of 3Blue1Brown.
 
