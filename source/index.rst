@@ -5,7 +5,14 @@ Manim文档:从入门到劝退
 
 ..Manim是一个用于解释性数学视频的动画引擎。它用于以编程方式创建精确的动画，如3Blue1Brown https://www.3blue1brown.com/ 所示
 
+
+
+此文档我是从manim文件夹下的docs拷贝过来的，所以可能有一些跟官方文档相似的地方。
+此文档主要来劝退初学者，Manim还是一个不太成熟的库，入门的基础也是比较高的，至于高在哪里，请看下面的manim-kindergarten的劝退文档。
+
+
 中文版本: https://docs.manim.org.cn/
+manim-kindergarten劝退文档: https://manim.org.cn/problems/persuade2quit
 
 .. toctree::
    :maxdepth: 2
