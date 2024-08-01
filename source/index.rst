@@ -12,6 +12,7 @@ Manim文档:从入门到劝退
 
 
 中文版本: https://docs.manim.org.cn/
+
 manim-kindergarten劝退文档: https://manim.org.cn/problems/persuade2quit
 
 .. toctree::
