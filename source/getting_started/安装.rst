@@ -1,29 +1,30 @@
 安装
 ============
 
-Manim runs on Python 3.8 or higher.
+Manim 运行在 Python 3.8 或者更高版本上
 
-System requirements are：
+所需的系统依赖有：
 
-- `FFmpeg <https://ffmpeg.org/>`__
-- `OpenGL <https://www.opengl.org//>`__ (included in python package ``PyOpenGL``)
-- `LaTeX <https://www.latex-project.org>`__ (optional, if you want to use LaTeX)
-- `Pango <https://pango.org>`__ (only for Linux)
+- `FFmpeg <https://ffmpeg.org/>`__(Windows 下安装需要自行配置 环境变量 )
+- `OpenGL <https://www.opengl.org//>`__ (包含在 python 包 PyOpenGL 中，将在下载依赖包时下载，无需手动安装)
+- `LaTeX <https://www.latex-project.org>`__ (可选，如果需要 LaTeX 则必需)
+- `Pango <https://pango.org>`__ (只有 Linux 系统需要，可选，如果需要使用 manim 的 Text 则必需（没验证过，抄manim-kindergarten的。。。）)
 
 
-Install FFmpeg
+安装上述依赖
 --------------
 
 
 
-Install FFmpeg Windows
+# Windows
 ------------------------
+如果您已经安装了 `chocolatey <https://chocolatey.org/>`__请按照下面命令安装ffmpeg
 .. code-block:: cmd
 
    choco install ffmpeg
 
 
-# Install FFmepeg Linux
+# Linux
 ----------------------------
 .. code-block:: sh
 
@@ -31,7 +32,7 @@ Install FFmpeg Windows
    $ sudo apt install ffmpeg
    $ ffmpeg -version
   
-# Install FFmpeg MacOS
+# MacOS
 ----------------------------
 - Download This ZIP file `https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z`(if the link is not working download this zip file from there original website)
 
