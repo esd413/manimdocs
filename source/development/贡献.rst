@@ -38,22 +38,22 @@ How to build this documentation
 
 .. code-block:: sh
 
-    git clone https://github.com/3b1b/manim.git
+    git clone https://github.com/esd413/manim.git
     # or your own repo
     # git clone https://github.com/<your user name>/manim.git
     cd manim
 
-- Install python package dependencies
+- 安装 Python 包依赖
 
 .. code-block:: sh
-
+    #请注意，如果您不是下载esd413的manim库的话，sphinx版本在下一个步骤时可能会出错，请重新下载sphinx
     pip install -r docs/requirements.txt
 
-- Go to the ``docs/`` folder and build
+- 进入 docs/ 文件夹并构建
 
 .. code-block:: sh
 
     cd docs/
     make html
 
-- The output document is located in ``docs/build/html/``
+- 输出文档位于 docs/build/html/ 中
