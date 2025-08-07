@@ -5,9 +5,6 @@ build:
   tools:
     python: "3.10"
 
-sphinx:
-  configuration: mkdocs.yml  # 指定 MkDocs 配置
-
 mkdocs:
   configuration: mkdocs.yml
 
